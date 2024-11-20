@@ -2,4 +2,8 @@
 
 This is the repository for the scholarship hackathon "Software Craftsmanship" including exercise-code and instructions.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/siehlema/hackathon-software-craftsmanship/blob/main/Hackathon%20-%20Software%20Craftsmanship%20-%20Playground.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/siehlema/hackathon-software-craftsmanship/blob/main/Hackathon%20-%20Software%20Craftsmanship%20-%20Playground.ipynb)
+
+<a href="https://colab.research.google.com/siehlema/hackathon-software-craftsmanship/blob/main/Hackathon%20-%20Software%20Craftsmanship%20-%20Playground.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
